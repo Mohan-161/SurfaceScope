@@ -1,4 +1,4 @@
-x# SurfaceScope
+# SurfaceScope
 
 SurfaceScope is a Python-based Attack Surface Discovery and Network Reconnaissance Tool developed for cybersecurity learning and assessment.
 
